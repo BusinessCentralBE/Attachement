@@ -1,4 +1,4 @@
-codeunit 50101 "DGR Attachement Sales Quote" implements "DGR Attachement"
+codeunit 50101 "STA Attachement Sales Quote" implements "STA Attachement"
 {
     procedure AddAttachements(var TempEmailItem: Record "Email Item" temporary; SourceRecordRef: RecordRef);
     var

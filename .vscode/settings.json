@@ -35,7 +35,7 @@
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
-    "CRS.ObjectNamePrefix": "DGR",
+    "CRS.ObjectNamePrefix": "STA",
     "CRS.OnSaveAlFileAction": "Rename",
     "CRS.RenameWithGit": false,
     "cSpell.diagnosticLevel": "Hint",

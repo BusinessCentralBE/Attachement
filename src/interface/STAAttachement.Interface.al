@@ -1,4 +1,4 @@
-interface "DGR Attachement"
+interface "STA Attachement"
 {
 
     /// <summary>
