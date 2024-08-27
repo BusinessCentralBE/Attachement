@@ -1,0 +1,38 @@
+{
+  "id": "91c9e6da-63e5-4ace-b4c8-c07e9ce907e6",
+  "name": "Attachements",
+  "publisher": "Stijn The Awsome",
+  "version": "23.0.231206.0",
+  "brief": "Attachement per document type",
+  "description": "Attachement per document type",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://www.business-central.be",
+  "url": "https://github.com/stijn1989/Attachements",
+  "logo": "./eos-logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "target": "OnPrem",
+  "supportedLocales":  [
+                           "en-US",
+                           "nl-BE"
+                       ],
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

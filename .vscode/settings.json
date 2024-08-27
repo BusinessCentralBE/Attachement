@@ -1,0 +1,46 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "alOutline.codeActionsOnSave": [
+        "SortProcedures",
+        "SortProperties",
+        "SortVariables"
+    ],
+    "alOutline.stripNonAlphanumericCharactersFromObjectNames": true,
+    "alOutline.completionProviders": [
+        "VariableNames",
+        "VariableDataTypes"
+    ],
+    "al.enableCodeAnalysis": true,
+    "al.backgroundCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",
+        "${UICop}"
+    ],
+    "alOutline.codeCleanupActions": [
+        "AddMissingParentheses",
+        "AddToolTips",
+        "FixIdentifiersCase",
+        "FixKeywordsCase",
+        "FormatDocument",
+        "MakeFlowFieldsReadOnly",
+        "SortProcedures",
+        "SortVariables",
+        "RemoveBeginEnd",
+        "RemoveEmptyLines"
+    ],
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNamePrefix": "STA",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.RenameWithGit": false,
+    "cSpell.diagnosticLevel": "Hint",
+    "al-test-runner.sendDebugTelemetry": false,
+    "al.compilationOptions": {
+        "generateReportLayout": true
+    }
+}
